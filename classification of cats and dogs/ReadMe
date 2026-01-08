@@ -1,0 +1,54 @@
+# Image Classification: Cats vs Dogs 🐱🐶
+
+## 📌 Overview
+This project is an image classification system that distinguishes between cat and dog images using **machine learning and deep learning techniques**.
+
+---
+
+## 🎯 Objectives
+- Build an accurate image classification model
+- Apply data preprocessing and augmentation
+- Reduce overfitting and improve generalization
+- Evaluate model performance on large datasets
+
+---
+
+## 🛠️ Technologies Used
+- **Language:** Python
+- **Libraries:** TensorFlow, Keras, Scikit-learn, NumPy
+- **Dataset Size:** 25,000+ images
+
+---
+
+## ⚙️ Methodology
+1. Image preprocessing and normalization
+2. Feature extraction / CNN architecture
+3. Data augmentation
+4. Model training and validation
+5. Hyperparameter tuning
+
+---
+
+## 🤖 Model Details
+- Convolutional Neural Network (CNN)
+- Logistic Regression (baseline comparison)
+
+---
+
+## 📊 Results
+- Achieved **92% classification accuracy**
+- Reduced overfitting by **35%** using augmentation
+- Improved model reliability and performance
+
+---
+
+## 📌 Future Enhancements
+- Transfer learning with ResNet / VGG
+- Real-time image classification app
+- Deployment using Flask or FastAPI
+
+---
+
+## 👨‍💻 Author
+**Pradeep Singh Negi**  
+B.Tech CSE | Machine Learning Enthusiast
