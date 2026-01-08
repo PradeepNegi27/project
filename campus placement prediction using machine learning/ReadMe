@@ -1,0 +1,61 @@
+# Campus Placement Prediction System 🎓📊
+
+## 📌 Overview
+This project predicts whether a student will be placed during campus recruitment using **machine learning algorithms**. It helps educational institutions analyze placement trends and provide targeted support to students.
+
+---
+
+## 🎯 Objectives
+- Predict placement outcomes using historical student data
+- Identify key factors influencing placement
+- Compare multiple ML models for best performance
+- Support data-driven decision making
+
+---
+
+## 🛠️ Technologies Used
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+
+---
+
+## 📂 Dataset
+- 500+ student records
+- 15+ academic, technical, and demographic features
+
+---
+
+## ⚙️ Methodology
+1. Data cleaning and preprocessing
+2. Feature engineering
+3. Model training and evaluation
+4. Cross-validation and accuracy comparison
+5. Visualization of placement predictors
+
+---
+
+## 🤖 Machine Learning Models
+- Logistic Regression
+- Decision Trees
+- Random Forest
+
+---
+
+## 📊 Results
+- Achieved **87% prediction accuracy**
+- Improved placement strategy reliability by **23%**
+- Identified CGPA, internships, and skills as key predictors
+
+---
+
+## 📌 Future Scope
+- Integration with real-time student databases
+- Deployment as a web-based application
+- Inclusion of deep learning models
+
+---
+
+## 👨‍💻 Author
+**Pradeep Singh Negi**  
+B.Tech CSE | Data & ML Enthusiast
